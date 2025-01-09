@@ -1,4 +1,10 @@
+using Microsoft.EntityFrameworkCore;
+using Schedular.Infrastrucrure.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<ApplicationDataContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Add services to the container.
 

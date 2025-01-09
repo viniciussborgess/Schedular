@@ -1702,6 +1702,35 @@
             "rid": "win"
           }
         }
+      },
+      "Schedular.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Schedular.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Schedular.Domain.dll": {}
+        }
+      },
+      "Schedular.Infrastrucrure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
+          "Schedular.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Schedular.Infrastrucrure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Schedular.Infrastrucrure.dll": {}
+        }
       }
     }
   },
@@ -5227,6 +5256,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Schedular.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Schedular.Domain/Schedular.Domain.csproj",
+      "msbuildProject": "../Schedular.Domain/Schedular.Domain.csproj"
+    },
+    "Schedular.Infrastrucrure/1.0.0": {
+      "type": "project",
+      "path": "../Schedular.Infra/Schedular.Infrastrucrure.csproj",
+      "msbuildProject": "../Schedular.Infra/Schedular.Infrastrucrure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5236,6 +5275,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.21.0",
+      "Schedular.Infrastrucrure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -5270,7 +5310,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Infra\\Schedular.Infrastrucrure.csproj": {
+              "projectPath": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Infra\\Schedular.Infrastrucrure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

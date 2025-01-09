@@ -28,4 +28,8 @@
     <Folder Include="Infrastructure\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Schedular.Infra\Schedular.Infrastrucrure.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5F95178-CF84-4C31-85CF-15D67C35DFF8}|Schedular.Domain\\Schedular.Domain.csproj|c:\\users\\vinicius\\desktop\\projetos\\schedular\\schedular.domain\\schedular.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E5F95178-CF84-4C31-85CF-15D67C35DFF8}|Schedular.Domain\\Schedular.Domain.csproj|solutionrelative:schedular.domain\\schedular.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6FE10326-D82A-42C4-835E-2098DBC814CE}|Schedular.API\\Schedular.API.csproj|c:\\users\\vinicius\\desktop\\projetos\\schedular\\schedular.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FE10326-D82A-42C4-835E-2098DBC814CE}|Schedular.API\\Schedular.API.csproj|solutionrelative:schedular.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FE10326-D82A-42C4-835E-2098DBC814CE}|Schedular.API\\Schedular.API.csproj|c:\\users\\vinicius\\desktop\\projetos\\schedular\\schedular.api\\schedular.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6FE10326-D82A-42C4-835E-2098DBC814CE}|Schedular.API\\Schedular.API.csproj|solutionrelative:schedular.api\\schedular.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{75F471C5-4B57-4C9C-BB83-500268990347}|Schedular.Infra\\Schedular.Infrastrucrure.csproj|c:\\users\\vinicius\\desktop\\projetos\\schedular\\schedular.infra\\migrations\\20250108180344_eventdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F471C5-4B57-4C9C-BB83-500268990347}|Schedular.Infra\\Schedular.Infrastrucrure.csproj|solutionrelative:schedular.infra\\migrations\\20250108180344_eventdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5F95178-CF84-4C31-85CF-15D67C35DFF8}|Schedular.Domain\\Schedular.Domain.csproj|c:\\users\\vinicius\\desktop\\projetos\\schedular\\schedular.domain\\data\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5F95178-CF84-4C31-85CF-15D67C35DFF8}|Schedular.Domain\\Schedular.Domain.csproj|solutionrelative:schedular.domain\\data\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5F95178-CF84-4C31-85CF-15D67C35DFF8}|Schedular.Domain\\Schedular.Domain.csproj|c:\\users\\vinicius\\desktop\\projetos\\schedular\\schedular.domain\\data\\core\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5F95178-CF84-4C31-85CF-15D67C35DFF8}|Schedular.Domain\\Schedular.Domain.csproj|solutionrelative:schedular.domain\\data\\core\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FE10326-D82A-42C4-835E-2098DBC814CE}|Schedular.API\\Schedular.API.csproj|c:\\users\\vinicius\\desktop\\projetos\\schedular\\schedular.api\\application\\models\\viewmodels\\eventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FE10326-D82A-42C4-835E-2098DBC814CE}|Schedular.API\\Schedular.API.csproj|solutionrelative:schedular.api\\application\\models\\viewmodels\\eventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FE10326-D82A-42C4-835E-2098DBC814CE}|Schedular.API\\Schedular.API.csproj|c:\\users\\vinicius\\desktop\\projetos\\schedular\\schedular.api\\application\\models\\viewmodels\\extensions\\eventviewmodelextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FE10326-D82A-42C4-835E-2098DBC814CE}|Schedular.API\\Schedular.API.csproj|solutionrelative:schedular.api\\application\\models\\viewmodels\\extensions\\eventviewmodelextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FE10326-D82A-42C4-835E-2098DBC814CE}|Schedular.API\\Schedular.API.csproj|c:\\users\\vinicius\\desktop\\projetos\\schedular\\schedular.api\\application\\models\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FE10326-D82A-42C4-835E-2098DBC814CE}|Schedular.API\\Schedular.API.csproj|solutionrelative:schedular.api\\application\\models\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F471C5-4B57-4C9C-BB83-500268990347}|Schedular.Infra\\Schedular.Infrastrucrure.csproj|c:\\users\\vinicius\\desktop\\projetos\\schedular\\schedular.infra\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F471C5-4B57-4C9C-BB83-500268990347}|Schedular.Infra\\Schedular.Infrastrucrure.csproj|solutionrelative:schedular.infra\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5F95178-CF84-4C31-85CF-15D67C35DFF8}|Schedular.Domain\\Schedular.Domain.csproj|c:\\users\\vinicius\\desktop\\projetos\\schedular\\schedular.domain\\data\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5F95178-CF84-4C31-85CF-15D67C35DFF8}|Schedular.Domain\\Schedular.Domain.csproj|solutionrelative:schedular.domain\\data\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F471C5-4B57-4C9C-BB83-500268990347}|Schedular.Infra\\Schedular.Infrastrucrure.csproj|c:\\users\\vinicius\\desktop\\projetos\\schedular\\schedular.infra\\data\\configuration\\evententityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F471C5-4B57-4C9C-BB83-500268990347}|Schedular.Infra\\Schedular.Infrastrucrure.csproj|solutionrelative:schedular.infra\\data\\configuration\\evententityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FE10326-D82A-42C4-835E-2098DBC814CE}|Schedular.API\\Schedular.API.csproj|c:\\users\\vinicius\\desktop\\projetos\\schedular\\schedular.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE10326-D82A-42C4-835E-2098DBC814CE}|Schedular.API\\Schedular.API.csproj|solutionrelative:schedular.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,130 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Schedular.API",
-              "DocumentMoniker": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.API\\Schedular.API.csproj",
-              "RelativeDocumentMoniker": "Schedular.API\\Schedular.API.csproj",
-              "ToolTip": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.API\\Schedular.API.csproj",
-              "RelativeToolTip": "Schedular.API\\Schedular.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-02T17:47:06.734Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Schedular.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.API\\appsettings.json",
+              "RelativeToolTip": "Schedular.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T23:05:12.666Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250108180344_EventDb.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Infra\\Migrations\\20250108180344_EventDb.cs",
+              "RelativeDocumentMoniker": "Schedular.Infra\\Migrations\\20250108180344_EventDb.cs",
+              "ToolTip": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Infra\\Migrations\\20250108180344_EventDb.cs",
+              "RelativeToolTip": "Schedular.Infra\\Migrations\\20250108180344_EventDb.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:03:45.025Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IEventRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Domain\\Data\\Repositories\\IEventRepository.cs",
-              "RelativeDocumentMoniker": "Schedular.Domain\\Data\\Repositories\\IEventRepository.cs",
-              "ToolTip": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Domain\\Data\\Repositories\\IEventRepository.cs",
-              "RelativeToolTip": "Schedular.Domain\\Data\\Repositories\\IEventRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.API\\Program.cs",
+              "RelativeDocumentMoniker": "Schedular.API\\Program.cs",
+              "ToolTip": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.API\\Program.cs",
+              "RelativeToolTip": "Schedular.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T18:08:54.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EventViewModelExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.API\\Application\\Models\\ViewModels\\Extensions\\EventViewModelExtensions.cs",
-              "RelativeDocumentMoniker": "Schedular.API\\Application\\Models\\ViewModels\\Extensions\\EventViewModelExtensions.cs",
-              "ToolTip": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.API\\Application\\Models\\ViewModels\\Extensions\\EventViewModelExtensions.cs",
-              "RelativeToolTip": "Schedular.API\\Application\\Models\\ViewModels\\Extensions\\EventViewModelExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T18:01:17.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EventViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.API\\Application\\Models\\ViewModels\\EventViewModel.cs",
-              "RelativeDocumentMoniker": "Schedular.API\\Application\\Models\\ViewModels\\EventViewModel.cs",
-              "ToolTip": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.API\\Application\\Models\\ViewModels\\EventViewModel.cs",
-              "RelativeToolTip": "Schedular.API\\Application\\Models\\ViewModels\\EventViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T17:58:13.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EventDTO.cs",
-              "DocumentMoniker": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.API\\Application\\Models\\DTOs\\EventDTO.cs",
-              "RelativeDocumentMoniker": "Schedular.API\\Application\\Models\\DTOs\\EventDTO.cs",
-              "ToolTip": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.API\\Application\\Models\\DTOs\\EventDTO.cs",
-              "RelativeToolTip": "Schedular.API\\Application\\Models\\DTOs\\EventDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T17:56:05.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Domain\\Data\\Core\\Entity.cs",
-              "RelativeDocumentMoniker": "Schedular.Domain\\Data\\Core\\Entity.cs",
-              "ToolTip": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Domain\\Data\\Core\\Entity.cs",
-              "RelativeToolTip": "Schedular.Domain\\Data\\Core\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T17:24:27.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Schedular.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Domain\\Schedular.Domain.csproj",
-              "RelativeDocumentMoniker": "Schedular.Domain\\Schedular.Domain.csproj",
-              "ToolTip": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Domain\\Schedular.Domain.csproj",
-              "RelativeToolTip": "Schedular.Domain\\Schedular.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-07T17:24:04.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EventEntityConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Infra\\Data\\Configuration\\EventEntityConfiguration.cs",
-              "RelativeDocumentMoniker": "Schedular.Infra\\Data\\Configuration\\EventEntityConfiguration.cs",
-              "ToolTip": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Infra\\Data\\Configuration\\EventEntityConfiguration.cs",
-              "RelativeToolTip": "Schedular.Infra\\Data\\Configuration\\EventEntityConfiguration.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T17:16:55.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDataContext.cs",
-              "DocumentMoniker": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Infra\\Data\\ApplicationDataContext.cs",
-              "RelativeDocumentMoniker": "Schedular.Infra\\Data\\ApplicationDataContext.cs",
-              "ToolTip": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Infra\\Data\\ApplicationDataContext.cs",
-              "RelativeToolTip": "Schedular.Infra\\Data\\ApplicationDataContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T17:02:11.102Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Domain\\Data\\Models\\Event.cs",
-              "RelativeDocumentMoniker": "Schedular.Domain\\Data\\Models\\Event.cs",
-              "ToolTip": "C:\\Users\\vinicius\\Desktop\\Projetos\\Schedular\\Schedular.Domain\\Data\\Models\\Event.cs",
-              "RelativeToolTip": "Schedular.Domain\\Data\\Models\\Event.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T16:36:47.297Z"
+              "WhenOpened": "2025-01-08T17:59:06.315Z"
             }
           ]
         }

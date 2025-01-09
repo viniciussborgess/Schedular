@@ -10,5 +10,10 @@ namespace Schedular.Domain.Data.Repositories;
 
 public interface IEventRepository 
 {
-
+    Event GetByName(DateTime date);
+    void Create(Event act);
+    Task<bool> SaveChangesAsync();
+    List<Event> GetAll();
+    void Delete(Event act);
+    void Update(Event act);
 }
